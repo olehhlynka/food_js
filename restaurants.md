@@ -1,6 +1,5 @@
 layout: page
 title: "restaurants"
-permalink: /
 <!DOCTYPE html>
 <html lang="ru">
 
